@@ -1,1 +1,2 @@
 # Natural_Language_Processing2
+STANCE DETECTION FOR A LOW-RESOURCE LANGUAGE
